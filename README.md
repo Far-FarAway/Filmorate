@@ -4,4 +4,4 @@
 
 Пользователи могут публиковать получать подборки фильмов, оценивать их, просматривать и получать топ популярных фильмов. 
 
-Стек технологий: java, spring boot, maven, postgreSQL, docker, postman.
+Стек технологий: java, spring boot, maven, JDBC, postgreSQL, docker.
